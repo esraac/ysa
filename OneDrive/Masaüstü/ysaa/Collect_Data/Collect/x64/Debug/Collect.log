@@ -1,0 +1,6 @@
+﻿  Process.cpp
+C:\Users\ecayi\OneDrive\Masaüstü\ysaa\Collect_Data\Collect\Process.cpp(108,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Process.cpp')
+  
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Collect.vcxproj -> C:\Users\ecayi\OneDrive\Masaüstü\ysaa\Collect_Data\x64\Debug\Collect.exe
